@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FidPro", "FibPro\FibPro.csproj", "{58D22849-2A19-4F0E-B6E6-7E6936E1D020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fib.Tests", "Fib.Tests\Fib.Tests.csproj", "{D1ECDD64-D32F-4366-B4CD-92CA6600677F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D22849-2A19-4F0E-B6E6-7E6936E1D020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D22849-2A19-4F0E-B6E6-7E6936E1D020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D22849-2A19-4F0E-B6E6-7E6936E1D020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D22849-2A19-4F0E-B6E6-7E6936E1D020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1ECDD64-D32F-4366-B4CD-92CA6600677F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1ECDD64-D32F-4366-B4CD-92CA6600677F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1ECDD64-D32F-4366-B4CD-92CA6600677F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1ECDD64-D32F-4366-B4CD-92CA6600677F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

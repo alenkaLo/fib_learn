@@ -1,0 +1,11 @@
+C:\Users\Alena\Desktop\Program\Modeling inform processing\Fib\FibPro\bin\Debug\net8.0\FibPro.deps.json
+C:\Users\Alena\Desktop\Program\Modeling inform processing\Fib\FibPro\bin\Debug\net8.0\FibPro.dll
+C:\Users\Alena\Desktop\Program\Modeling inform processing\Fib\FibPro\bin\Debug\net8.0\FibPro.pdb
+C:\Users\Alena\Desktop\Program\Modeling inform processing\Fib\FibPro\obj\Debug\net8.0\FibPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alena\Desktop\Program\Modeling inform processing\Fib\FibPro\obj\Debug\net8.0\FibPro.AssemblyInfoInputs.cache
+C:\Users\Alena\Desktop\Program\Modeling inform processing\Fib\FibPro\obj\Debug\net8.0\FibPro.AssemblyInfo.cs
+C:\Users\Alena\Desktop\Program\Modeling inform processing\Fib\FibPro\obj\Debug\net8.0\FibPro.csproj.CoreCompileInputs.cache
+C:\Users\Alena\Desktop\Program\Modeling inform processing\Fib\FibPro\obj\Debug\net8.0\FibPro.dll
+C:\Users\Alena\Desktop\Program\Modeling inform processing\Fib\FibPro\obj\Debug\net8.0\refint\FibPro.dll
+C:\Users\Alena\Desktop\Program\Modeling inform processing\Fib\FibPro\obj\Debug\net8.0\FibPro.pdb
+C:\Users\Alena\Desktop\Program\Modeling inform processing\Fib\FibPro\obj\Debug\net8.0\ref\FibPro.dll
